@@ -1,0 +1,68 @@
+    1  git version
+    2  git
+    3  pwd
+    4  clear
+    5  ls
+    6  ls -al
+    7  clear
+    8  pwd
+    9  mkdir project1
+   10  cd project1
+   11  pwd
+   12  ls -al
+   13  git init
+   14  ls -al
+   15  touch file.txt
+   16  ls -al
+   17  git status
+   18  git add
+   19  git add file.txt
+   20  git status
+   21  git commit -m "first commit"
+   22  git config --global user.email "sandylamture03@gmail.com"
+   23  git config --global user.name "sandy lamture"
+   24  git commit -m "first commit"
+   25  git ommit -m "first commit"
+   26  git log
+   27  toych file2.txt
+   28  touch file2.txt
+   29  git add file2.txt
+   30  git status
+   31  git commit -m "second commit"
+   32  git log
+   33  touch file3.txt
+   34  git add
+   35  git add file3.txt
+   36  git status
+   37  git commit -m "Third commit"
+   38  git log
+   39  vim file1.txt
+   40  git add file1.txt
+   41  git status
+   42  git commit -m "done changes"
+   43  git log
+   44  vim file1.txt
+   45  vim file1.txt
+   46  tail file1.txt
+   47  cat file1.txt
+   48  git log
+   49  git log file1.txt
+   50  vim --version
+   51  git status
+   52  git remote add kh_project https://github.com/Sandylamture03/kh_project-1.git
+   53  git remote -v
+   54  git push kh_project
+   55  git push kh_project
+   56  vim file2.txt
+   57  git add file2.txt
+   58  git status
+   59  git commit -m file2.txt
+   60  git log
+   61  git remote -v
+   62  git push kh_project
+   63  vim file3.txt
+   64  git add file3.txt
+   65  git status
+   66  git commit -m "done dona done"
+   67  git push kh_project
+   68  history >> history.txt
